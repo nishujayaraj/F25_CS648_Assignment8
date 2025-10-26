@@ -3,11 +3,9 @@
 /*eslint-env browser*/
 var employeesDetails = [
 
-    ["Liana Mercer", "Quality Assurance", 3423],
-    ["Devin Caldwell", "Vp Sales", 3346],
-    ["Serena Hayward", "Marketing", 3232],
-    ["Owen Fischer", "Manager", 3692],
-    ["Nischitha J", "CEO", 3142],
+    ["Sally Smith", "Quality Assurance", 3423],
+    ["Mark Martin", "Vp Sales", 3346],
+    ["Jhonson Jhonson", "Marketing", 3232],
 ];
 
 function populateEmployeeCount() {
