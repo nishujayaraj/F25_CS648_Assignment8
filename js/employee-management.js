@@ -7,7 +7,7 @@ var employeesDetails = [
     ["Devin Caldwell", "Vp Sales", 3346],
     ["Serena Hayward", "Marketing", 3232],
     ["Owen Fischer", "Manager", 3692],
-    ["Apeksha J", "CEO", 3142],
+    ["Nischitha J", "CEO", 3142],
 ];
 
 function populateEmployeeCount() {
